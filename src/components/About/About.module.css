@@ -1,0 +1,9 @@
+.bgSpider {
+  background-image: url(../../../public/images/about-spider-wev-image.png),
+    url(../../../public/images/Skull.jpg);
+  background-size: auto, contain;
+  background-position: top left, right;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-color: rgb(66, 28, 89);
+}
